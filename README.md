@@ -1,4 +1,4 @@
-# Project: Machine Learning - Neural Network Optimization
+# Project: Machine Learning - Neural Network 
 
 # Description
 This project focuses on developing and optimizing a fully connected feed-forward neural network for classifying handwritten digits. The goal is to find the best network architecture by experimenting with different configurations, such as layers, neurons, learning rates, and batch sizes.
